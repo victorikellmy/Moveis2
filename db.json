@@ -2,10 +2,10 @@
   "estudantes": [
     {
       "nome": "Ana",
-      "ano_nascimento": 1984,
+      "ano_nascimento": 1999,
       "notas": {
-        "n1": 7,
-        "n2": 5,
+        "n1": 9,
+        "n2": 4,
         "n3": 4
       }
     },
@@ -14,8 +14,8 @@
       "ano_nascimento": 2002,
       "notas": {
         "n1": 10,
-        "n2": 9,
-        "n3": 9
+        "n2": 7,
+        "n3": 4
       }
     },
     {
@@ -24,25 +24,25 @@
       "notas": {
         "n1": 6,
         "n2": 7,
-        "n3": 8
+        "n3": 5
       }
     },
     {
       "nome": "José",
       "ano_nascimento": 1995,
       "notas": {
-        "n1": 9,
-        "n2": 8,
-        "n3": 7
+        "n1": 6,
+        "n2": 5,
+        "n3": 5
       }
     },
     {
       "nome": "Paula",
       "ano_nascimento": 1982,
       "notas": {
-        "n1": 5,
+        "n1": 4,
         "n2": 6,
-        "n3": 0
+        "n3": 3
       }
     }
   ]
