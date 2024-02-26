@@ -1,7 +1,7 @@
 {
   "estudantes": [
     {
-      "nome": "Ana",
+      "nome": "Ana Maria",
       "ano_nascimento": 1999,
       "notas": {
         "n1": 9,
@@ -10,7 +10,7 @@
       }
     },
     {
-      "nome": "Arthur",
+      "nome": "Wellington",
       "ano_nascimento": 2002,
       "notas": {
         "n1": 10,
@@ -19,7 +19,7 @@
       }
     },
     {
-      "nome": "Maria",
+      "nome": "Luana",
       "ano_nascimento": 1988,
       "notas": {
         "n1": 6,
@@ -37,7 +37,7 @@
       }
     },
     {
-      "nome": "Paula",
+      "nome": "Victor",
       "ano_nascimento": 1982,
       "notas": {
         "n1": 4,
