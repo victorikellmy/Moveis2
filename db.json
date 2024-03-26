@@ -1,49 +1,64 @@
 {
-  "estudantes": [
+  "pedras": [
     {
-      "nome": "Ana Maria",
-      "ano_nascimento": 1999,
-      "notas": {
-        "n1": 9,
-        "n2": 4,
-        "n3": 4
-      }
+      "nome": "Ametista",
+      "numeros": [{
+        "n1": 1,
+        "n2": 2,
+        "n3": 3,
+        "n4": 4,
+        "n5": 5,
+        "n6": 6,
+        "n7": 7,
+        "n8": 8,
+        "n9": 9,
+        "n10": 10
+      }]
     },
-    {
-      "nome": "Wellington",
-      "ano_nascimento": 2002,
-      "notas": {
-        "n1": 10,
-        "n2": 7,
-        "n3": 4
-      }
+        {
+      "nome": "emeralda",
+      "numeros": [{
+        "n1": 1,
+        "n2": 2,
+        "n3": 3,
+        "n4": 4,
+        "n5": 5,
+        "n6": 6,
+        "n7": 7,
+        "n8": 8,
+        "n9": 9,
+        "n10": 10
+      }]
     },
-    {
-      "nome": "Luana",
-      "ano_nascimento": 1988,
-      "notas": {
-        "n1": 6,
-        "n2": 7,
-        "n3": 5
-      }
+        {
+      "nome": "diamante",
+      "numeros": [{
+        "n1": 1,
+        "n2": 2,
+        "n3": 3,
+        "n4": 4,
+        "n5": 5,
+        "n6": 6,
+        "n7": 7,
+        "n8": 8,
+        "n9": 9,
+        "n10": 10
+      }]
     },
-    {
-      "nome": "José",
-      "ano_nascimento": 1995,
-      "notas": {
-        "n1": 6,
-        "n2": 5,
-        "n3": 5
-      }
-    },
-    {
-      "nome": "Victor",
-      "ano_nascimento": 1982,
-      "notas": {
-        "n1": 4,
-        "n2": 6,
-        "n3": 3
-      }
+        {
+      "nome": "selenio",
+      "numeros": [{
+        "n1": 1,
+        "n2": 2,
+        "n3": 3,
+        "n4": 4,
+        "n5": 5,
+        "n6": 6,
+        "n7": 7,
+        "n8": 8,
+        "n9": 9,
+        "n10": 10
+      }]
     }
   ]
 }
