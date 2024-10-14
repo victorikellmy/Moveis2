@@ -1,24 +1,34 @@
 {
-  "pedras": [
+  "alunos": [
     {
-      "nome": "Ametista",
-      "numeros": [1,2,3,4,5,6,7,8,9,10
-      ]
+      "nome": "João Silva",
+      "idade": 20,
+      "nota": [7.5, 8.0, 9.2],
+      "frequencia": [true, true, false, true, true, false, true, true, true, true]
     },
-        {
-      "nome": "emeralda",
-      "numeros": [1,2,3,4,5,6,7,8,9,10
-      ]
+    {
+      "nome": "Maria Souza",
+      "idade": 22,
+      "nota": [9.0, 8.5, 7.8],
+      "frequencia": [true, true, true, true, false, true, true, true, false, true]
     },
-        {
-      "nome": "diamante",
-        "numeros": [1,2,3,4,5,6,7,8,9,10
-      ]
+    {
+      "nome": "Carlos Pereira",
+      "idade": 19,
+      "nota": [6.0, 7.0, 8.0],
+      "frequencia": [false, true, true, false, true, true, true, false, true, true]
     },
-        {
-      "nome": "selenio",
-      "numeros": [1,2,3,4,5,6,7,8,9,10
-      ]
+    {
+      "nome": "Ana Lima",
+      "idade": 21,
+      "nota": [8.5, 9.0, 8.8],
+      "frequencia": [true, true, true, true, true, true, true, true, false, true]
+    },
+    {
+      "nome": "Pedro Santos",
+      "idade": 23,
+      "nota": [7.2, 6.5, 8.3],
+      "frequencia": [false, true, true, true, true, true, false, true, true, true]
     }
   ]
 }
