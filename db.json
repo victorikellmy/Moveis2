@@ -1,5 +1,4 @@
-{
-  "estudantes": [
+[
 	{
 	"id": 1,
   	"nome": "João",
@@ -71,4 +70,3 @@
   	"presenca": [false, true, true, false, true]
 	}
   ]
-}
